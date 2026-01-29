@@ -1,0 +1,22 @@
+@use './fonts';
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0;
+	font-family: 'SF Pro', system-ui, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+	color: #fff;
+}
+
+p {
+	color: #fbfbfbb2;
+}
